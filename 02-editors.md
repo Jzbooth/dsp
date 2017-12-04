@@ -81,7 +81,7 @@ Upload these 3 files to the [`editors`](editors/) folder.
 
 What terminal editor will be your preferred choice of use? How did you make your decision?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I prefer nano because it is the easiest to use.
 
 --
 
@@ -89,6 +89,6 @@ What terminal editor will be your preferred choice of use? How did you make your
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I will use PyCharm because I am already familiar with it.  PyCharm has many great features such as error highlighting and fixes, and code completion to name a few.  Some useful keyboard shortcuts for PyCharm include ctrl-space for code completion and command-P to show the parameters of the method call at the caret.  PyCharm can easily be customized within the program by going to the settings page.
 
  
