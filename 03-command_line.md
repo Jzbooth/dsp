@@ -82,7 +82,7 @@ The xargs command converts input from standard input into arguments in a command
 
 Example: $xargs  
 Hello world  
-* if I then press ctrl+D to tell xargs I am done the output will be.*  
+if I then press ctrl+D to tell xargs I am done the output will be.  
 Hello world  
 
 This is because the defaut command that xargs will excecute.  
