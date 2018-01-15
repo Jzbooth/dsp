@@ -1,9 +1,9 @@
 [Think Stats Chapter 2 Exercise 4](http://greenteapress.com/thinkstats2/html/thinkstats2003.html#toc24) (Cohen's d)
 
 >> cohens D for the weight differences between first babies and others is -0.088672927072602
-cohen's D for the pregnancy length differences between first babies and others is 0.029 
-These numbers are very small and therefore there is little difference between the weight or pregnancy length of a first born child versus another child.
-It is interesting to note that first born children are typically carried for longer than other babies but on average weigh less than other babies.  Again, this difference is very small, 13 hours on average for pregnancy length and 2 oz for difference in weight.  
+>>cohen's D for the pregnancy length differences between first babies and others is 0.029 
+>>These numbers are very small and therefore there is little difference between the weight or pregnancy length of a first born child versus another child.
+>>It is interesting to note that first born children are typically carried for longer than other babies but on average weigh less than other babies.  Again, this difference is very small, 13 hours on average for pregnancy length and 2 oz for difference in weight.  
 
 code:
 
